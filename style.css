@@ -1,0 +1,61 @@
+body {
+  color: rgb(105, 105, 105);
+  background-color: rgb(242, 237, 188);
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  text-align: center;  /*This will also align your profile image */
+}
+
+h1 {
+  color: rgb(232, 95, 71); /*rgb(229, 107, 55);*/
+  font-family: Arial, sans-serif;
+  font-size:27px;
+
+}
+
+h2 {
+  color: rgb(232, 95, 71);
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+
+}
+ a {
+    color: rgba(85, 85, 85, 0.7);
+}
+ a:hover {
+    color: rgba(75, 75, 75, 0.9);
+}
+
+.container {
+  width: 600px;   /* This sets the width */
+  margin: 20px auto; /* This automatically sets left/right margins */
+}
+
+.card {
+  background-color: rgb(245, 244, 235); /*rgb(249, 247, 214);*/ /*rgb(249, 247, 209);*/
+  padding: 20px;                              /* Internal space */
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.1);       /* OR subtle border */
+  margin: 12px;
+}
+
+#profile_image {
+height:230px;
+width:230px;
+border-radius: 50%;
+
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+
+
+
+
+
+
+
