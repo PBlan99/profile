@@ -21,6 +21,11 @@ h2 {
   font-size: 22px;
 
 }
+
+h3 {
+  font-weight:bold;
+}
+
  a {
     color: rgba(85, 85, 85, 0.7);
 }
