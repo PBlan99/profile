@@ -35,7 +35,7 @@ table {
 
 .container {
   width: 600px;   /* This sets the width */
-  margin: 20px auto; /* This automatically sets left/right margins */
+  margin: 0px auto; /* This automatically sets left/right margins */
 }
 
 .card {
