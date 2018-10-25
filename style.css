@@ -47,8 +47,8 @@ table {
 }
 
 #profile_image {
-/*height:230px;*/
-width:50px;
+/*height:230px;*/ /*the height width ratio is maintained by CSS when we change the image width*/
+width:230px;
 border-radius: 50%;
 
 }
